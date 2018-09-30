@@ -1,10 +1,11 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: Micah
+title: About Me
 ---
-### Coding
-I spend most of my time coding. I'm usually busy hacking away on node, typescript, or solidity projects. [Check out my github](https://github.com/micahriggan) to see what I'm currently working on.
+Hi, I'm Micah. I spend most of my time coding. I'm usually busy hacking away on node, typescript, or smart-contract projects. [Check out my github](https://github.com/micahriggan) to see what I'm currently working on.
+
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/micah-riggan) or follow me on [Twitter](https://twitter.com/micahriggan)
 
 ### Bitcore
 I started working @ BitPay Jan 2018. So far my main project there is Bitcore v8. This iteration of Bitcore-Node uses MongoDb and Typescript. [Check it out on github](https://github.com/bitpay/bitcore/tree/v8.0.0)
