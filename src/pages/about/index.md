@@ -1,19 +1,16 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Micah
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Coding
+I spend most of my time coding. I'm usually busy hacking away on node, typescript, or solidity projects. [Check out my github](https://github.com/micahriggan) to see what I'm currently working on.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Bitcore
+I started working @ BitPay Jan 2018. So far my main project there is Bitcore v8. This iteration of Bitcore-Node uses MongoDb and Typescript. [Check it out on github](https://github.com/bitpay/bitcore/tree/v8.0.0)
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### SplitCoin
+[SplitCoin](www.app.splitcoin.io) was my first Dapp. It creates income splitting contracts which allow participants to receive their percentage of income
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### This Site
+This site is built with Netlify and Gatsby. All of the posts are Markdown YAML files and the templates are built in React. [Check it out on github](https://github.com/netlify-templates/gatsby-starter-netlify-cms)
